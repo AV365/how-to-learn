@@ -1,0 +1,28 @@
+.footer__column-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  color: var(--color-bg2);
+
+  font-size: 18px;
+  line-height: 30px;
+}
+
+
+.footer__column-links :link,
+.footer__column-links :visited {
+  opacity: 1;
+  color: var(--color-bg2);
+  text-decoration: none;
+}
+
+.footer__column-links :hover {
+  transition: opacity 0.5s;
+  opacity: 0.5;
+}
+
+
+.footer__column-links:last-of-type {
+  margin-bottom: 16px;
+}
