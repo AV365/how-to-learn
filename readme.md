@@ -1,5 +1,7 @@
 # Лендинг "Научиться учиться"
 
+https://av365.github.io/how-to-learn/index.html
+
 ##### Одностраничный сайт учебного курса Яндекс Практикум "Веб разработчик".
 
 **Адрес курса**: [https://praktikum.yandex.ru/web/][https://praktikum.yandex.ru/web/]
